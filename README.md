@@ -4,6 +4,8 @@
 
 _Last Update: 9/13/2016_
 
+Check out [an updated version of the Lucene tutorial in 2018 (for Lucene 7.4)](https://github.com/jiepujiang/LuceneExamples).
+
 A quick index:
 * [Installation](https://github.com/jiepujiang/cs646_tutorials#installation)
 * [Build an Index](https://github.com/jiepujiang/cs646_tutorials#build-an-index)
